@@ -1,4 +1,5 @@
-THIS IS THE SAMPLE APP
-FROM RAILSTUTORIAL.ORG
+# Ruby on Rails Tutorial: Sample App - Arpan
 
--ARPAN!!!
+sample app for 
+[*Ruby on Rails Tut*](http://railstutorial.org/)
+by [Hartl](http://michaelhartl.com/).
